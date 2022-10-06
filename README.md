@@ -19,15 +19,13 @@ I am a DevOps Engineer. Passionate about cloud & will be sharing my learnings,pr
 <!--- [<img align="left" alt="Ansible" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" />](https://www.ansible.com) --->
 [<img align="left" alt="Jenkins" width="26px" src="https://raw.githubusercontent.com/github/explore/4546263bd5739353083c33dada43f8f31e7d1fd6/topics/jenkins/jenkins.png" />](https://jenkins.io)
 
----
-<br />
-<br />
-<br />
+<br /><br /><br />
 
 ### Cloud 
 [<img align="left" alt="AWS"  src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" width="50" height="50" />](https://aws.amazon.com/)
 [<img align="left" alt="Azure" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" width="50" height="50" />](https://azure.microsoft.com/)
 [<img align="left" alt="GCP" src="https://avatars.githubusercontent.com/u/2810941?s=200&v=4" width="50" height="50"/>](https://cloud.google.com/)
+
 
 
 ---
@@ -43,5 +41,7 @@ I am a DevOps Engineer. Passionate about cloud & will be sharing my learnings,pr
 [<img align="left" alt="Microsoft Certified: Azure Fundamentals" width="75px" src="https://images.credly.com/size/220x220/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"/>](https://www.credly.com/badges/f24ca11d-5754-4b45-ac6a-482218e1e970/public_url)
 
 [<img align="left" alt="Microsoft Certified: Azure Administrator Associate" width="75px" src="https://images.credly.com/size/220x220/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png"/>](https://www.credly.com/badges/a3b8db28-f08d-473d-85da-1014194912fb/public_url)
+
+<br /><br /><br />
 
 ---
