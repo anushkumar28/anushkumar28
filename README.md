@@ -18,6 +18,8 @@ I am a DevOps Engineer. Passionate about cloud & will be sharing my learnings,pr
 [<img align="left" alt="GitLab" width="50" height="50" src="https://about.gitlab.com/images/press/press-kit-icon.svg" />](https://about.gitlab.com)
 <!--- [<img align="left" alt="Ansible" width="50" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" />](https://www.ansible.com) --->
 [<img align="left" alt="Jenkins" width="50" height="50" src="https://raw.githubusercontent.com/github/explore/4546263bd5739353083c33dada43f8f31e7d1fd6/topics/jenkins/jenkins.png" />](https://jenkins.io)
+[<img align="left" alt="TeamCity" width="50" height="50" src="/img/teamcity.png" />](https://www.jetbrains.com/teamcity/)
+[<img align="left" alt="Octopus Deploy" width="50" height="50" src="https://a.storyblok.com/f/92909/x/dca1b3125c/octopus-deploy.svg"/>](https://octopus.com/)
 
 <br /><br /><br />
 
