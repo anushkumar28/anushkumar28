@@ -19,10 +19,14 @@ I am a DevOps Engineer. Passionate about cloud & will be sharing my learnings,pr
 <!-- [<img align="left" alt="Ansible" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" width="50" height="50"/>](https://www.ansible.com) -->
 [<img align="left" alt="Jenkins" width="26px" src="https://raw.githubusercontent.com/github/explore/4546263bd5739353083c33dada43f8f31e7d1fd6/topics/jenkins/jenkins.png" width="50" height="50"/>](https://jenkins.io)
 
+---
+<br />
+<br />
+
 ### Cloud 
-[<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" width="50" height="50" />](https://aws.amazon.com/)
-[<img align="left" alt="Azure" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" width="50" height="50" />](https://azure.microsoft.com/)
-[<img align="left" alt="GCP" width="26px" src="https://avatars.githubusercontent.com/u/2810941?s=200&v=4" width="50" height="50"/>](https://cloud.google.com/)
+[<img align="left" alt="AWS"  src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" width="50" height="50" />](https://aws.amazon.com/)
+[<img align="left" alt="Azure" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" width="50" height="50" />](https://azure.microsoft.com/)
+[<img align="left" alt="GCP" src="https://avatars.githubusercontent.com/u/2810941?s=200&v=4" width="50" height="50"/>](https://cloud.google.com/)
 
 <br />
 
