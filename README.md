@@ -2,7 +2,7 @@
 
 ---
 
-I am a DevOps Engineer. Passionate about cloud & will be sharing my learnings,projects in cloud, DevOps here. 
+I am a DevOps Engineer with a Post Graduation Certificate in Cybersecurity. I am passionate about the cloud, and cybersecurity & will share my learnings here. 
 
 ---
 
@@ -34,9 +34,9 @@ I am a DevOps Engineer. Passionate about cloud & will be sharing my learnings,pr
 
 ---
 
-- 🌱 I’m currently learning Ansible
-- 🔭 I’m currently gaining experience on Kubernetes
-- 🥅 Goals to achieve by EOY: Gain more hands-on knowledge on k8, Golang and learn Ansible
+- 🌱 I’m currently learning Bug Bounty.
+- 🔭 I’m currently gaining experience in Cybersecurity
+- 🥅 Goals to achieve by EOY: Gain more hands-on knowledge on Cybersecurity tools, participate in Hackathons and learn how to be an ethical hacker.
 
 ---
 
