@@ -35,9 +35,8 @@ I am a DevOps Engineer with a Post Graduation Certificate in Cybersecurity. I am
 ---
 
 - 🌱 I’m currently learning Bug Bounty.
-- 🔭 I’m currently gaining experience in Cybersecurity
-- 🥅 Goals to achieve by EOY: Gain more hands-on knowledge on Cybersecurity tools, participate in Hackathons and learn how to be an ethical hacker.
-
+- 🔭 I’m currently gaining experience in Cybersecurity.
+- 🥅 Goals to achieve by EOY: Gain more hands-on knowledge on Cybersecurity tools and get a full time job!!!
 ---
 
 ### :1st_place_medal: Certifications and Badges
