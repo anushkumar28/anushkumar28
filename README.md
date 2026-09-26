@@ -32,13 +32,6 @@ I am a DevOps Engineer with a Post Graduation Certificate in Cybersecurity. I am
 
 <br /><br /><br />
 
----
-
-- 🌱 I’m currently learning Bug Bounty.
-- 🔭 I’m currently gaining experience in Cybersecurity.
-- 🥅 Goals to achieve by EOY: Gain more hands-on knowledge on Cybersecurity tools and get a full time job!!!
----
-
 ### :1st_place_medal: Certifications and Badges
 
 [<img align="left" alt="Microsoft Certified: Azure Fundamentals" width="75px" src="https://images.credly.com/size/220x220/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"/>](https://www.credly.com/badges/f24ca11d-5754-4b45-ac6a-482218e1e970/public_url)
